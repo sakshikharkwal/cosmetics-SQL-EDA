@@ -54,7 +54,7 @@ The goal is to derive insights relevant to business and data analyst roles, focu
 1. Clone this repository:
    ```bash
    git clone https://github.com/sakshikharkwal/cosmetics-SQL-EDA.git
-   cd cosmetics-SQL-EDA
+   cd cosmetics-SQL-EDA   
 ````
 
 2. Set up the database using scripts in the `schema/` folder.
@@ -63,5 +63,3 @@ The goal is to derive insights relevant to business and data analyst roles, focu
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
-
-```
