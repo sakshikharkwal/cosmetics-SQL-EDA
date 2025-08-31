@@ -27,11 +27,25 @@ The goal is to derive insights relevant to business and data analyst roles, focu
 ```
 
 .
-├── schema/              # Database schema creation scripts
-├── data/                # Raw dataset
-├── queries/             # SQL analysis queries
-├── README.md            # Project documentation
-└── LICENSE              # License file (MIT)
+├── README.md                   # Project description, workflow, instructions
+├── LICENSE                     # MIT license
+├── .gitignore                  # Ignore venv, cache, notebooks checkpoints, etc.
+│ 
+├── sql_scripts/                # All SQL scripts organized
+│   ├── 1_data_cleaning.sql
+│   ├── 2_create_new_schema.sql
+│   └── 3_data_analysis.sql
+│ 
+├── er_diagram/                 # ER diagrams and schema design
+│   └── cosmetics_clean_ER.png
+│ 
+├── docs/                       # Documentation and analysis notes
+│   └── analysis_notes.md
+│ 
+└── data/                       # Sample CSV extracts (hidden)
+    ├── cosmetics_raw.csv       # Original raw data
+    └── cosmetics_clean.csv     # Cleaned but not normalized data
+
 
 ````
 
