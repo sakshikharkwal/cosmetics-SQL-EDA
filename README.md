@@ -47,7 +47,7 @@ The goal is to derive insights relevant to business and data analyst roles, focu
     └── cosmetics_clean.csv     # Cleaned but not normalized data
 
 
-````
+```
 
 ## How to Use
 
