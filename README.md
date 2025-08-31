@@ -52,7 +52,7 @@ The goal is to derive insights relevant to business and data analyst roles, focu
 ## How to Use
 
 1. Clone this repository:
-   ```bash
+```
    git clone https://github.com/sakshikharkwal/cosmetics-SQL-EDA.git
    cd cosmetics-SQL-EDA   
 ```
