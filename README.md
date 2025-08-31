@@ -25,7 +25,6 @@ The goal is to derive insights relevant to business and data analyst roles, focu
 ## Repository Structure
 
 ```
-
 .
 ├── README.md                   # Project description, workflow, instructions
 ├── LICENSE                     # MIT license
@@ -45,7 +44,6 @@ The goal is to derive insights relevant to business and data analyst roles, focu
 └── data/                       # Sample CSV extracts (hidden)
     ├── cosmetics_raw.csv       # Original raw data
     └── cosmetics_clean.csv     # Cleaned but not normalized data
-
 
 ```
 
