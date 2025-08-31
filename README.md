@@ -55,7 +55,7 @@ The goal is to derive insights relevant to business and data analyst roles, focu
    ```bash
    git clone https://github.com/sakshikharkwal/cosmetics-SQL-EDA.git
    cd cosmetics-SQL-EDA   
-````
+```
 
 2. Set up the database using scripts in the `schema/` folder.
 3. Run queries from the `queries/` folder to replicate the analysis.
