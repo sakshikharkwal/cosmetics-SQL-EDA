@@ -22,6 +22,12 @@ The goal is to derive insights relevant to business and data analyst roles, focu
 - SQL (MySQL)  
 - Git & GitHub for version control  
 
+## Data Source
+
+```
+The dataset was obtained from [https://catalog.data.gov/dataset/chemicals-in-cosmetics-d55bf].  
+```
+
 ## Repository Structure
 
 ```
